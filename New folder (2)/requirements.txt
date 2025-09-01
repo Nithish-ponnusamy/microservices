@@ -1,0 +1,8 @@
+gymnasium
+stable-baselines3
+kubernetes
+flask
+docker
+numpy
+pandas
+matplotlib
